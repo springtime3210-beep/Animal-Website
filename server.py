@@ -1,7 +1,7 @@
 import http.server
 import os
 
-PHOTOES_DIR = r"D:\DATA\000-IT Training\VSCode\website1\photoes"
+PHOTOES_DIR = r"D:\temp\Animal-Website\photoes"
 PORT = 8000
 
 class CustomHandler(http.server.SimpleHTTPRequestHandler):
