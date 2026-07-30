@@ -1,0 +1,15 @@
+This project is to build a website that help users to find picture of animals. 
+There are 2 levels to this website, the first level being the category of animals, the second contains the pictures of the animal.
+The photoes of the animals are in the folder D:\DATA\000-IT Training\VSCode\website1\photoes.  Each sub-folder in this folder contains photoes of a category of animal.
+The welcome page of the website should display the purpose of this website and how to use it.
+The top of the page should contain buttons to direct the user to a page for each of the animal category.
+The secondary page will display the photoes of the animals of that category and the name of each animal should be displayed against its photo.
+
+
+This project is to build a website that help users to find picture of animals. 
+There are 2 levels to this website, the first level being the category of animals, the second contains the pictures of the animal.
+The photoes of the animals are in the folder D:\DATA\000-IT Training\VSCode\website1\photoes.  Each sub-folder in this folder contains photoes of a category of animal.
+The welcome page of the website should display the purpose of this website and how to use it.
+The top of the page should contain buttons to direct the user to a page for each of the animal category.
+The secondary page will display the photoes of the animals of that category and the name of each animal should be displayed against its photo.
+
